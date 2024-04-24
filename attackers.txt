@@ -1,0 +1,72 @@
+Block: 4967146
+Attacker (Buy): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Victim: 7L3yT2ZZZGUbvcf3uV8itqRSqq9WGueN8QNEBjP2bpJvgGdq
+Attacker (Sell): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Asset In: DOT
+Asset Out: Asset ID: 1000085
+Amount In: 20.00000
+Min Amount Out: N/A
+
+Block: 4967383
+Attacker (Buy): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Victim: 7M179StYrpejG2rDQDE3q8ChohrzNnCycc5kxDocZt3BT5wV
+Attacker (Sell): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Asset In: DOT
+Asset Out: PINK
+Amount In: 10.00000
+Min Amount Out: 0.00029
+
+Block: 4967392
+Attacker (Buy): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Victim: 7K9TT3SpX3AQPWTKtJbTXJe1aSZo7Biyy6s4MX8xysRobAFn
+Attacker (Sell): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Asset In: DOT
+Asset Out: STINK
+Amount In: 80.00000
+Min Amount Out: 397680.32862
+
+Block: 4967467
+Attacker (Buy): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Victim: 7K9TT3SpX3AQPWTKtJbTXJe1aSZo7Biyy6s4MX8xysRobAFn
+Attacker (Sell): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Asset In: DOT
+Asset Out: STINK
+Amount In: 70.00000
+Min Amount Out: 344717.63211
+
+Block: 4967678
+Attacker (Buy): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Victim: 7JxzibAh3QGsrM6k2D4VrqyCL7dfuom11GpKXbQypL5yJQNh
+Attacker (Sell): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Asset In: DOT
+Asset Out: Asset ID: 1000085
+Amount In: 48.00000
+Min Amount Out: N/A
+
+Block: 4967693
+Attacker (Buy): 7METuQ3X92iEjeESKPV3aGWYsgz3Et3xYWpE4kj8dCAW4qbA
+Victim: 7METuQ3X92iEjeESKPV3aGWYsgz3Et3xYWpE4kj8dCAW4qbA
+Attacker (Sell): 7K9TT3SpX3AQPWTKtJbTXJe1aSZo7Biyy6s4MX8xysRobAFn
+Asset In: DOT
+Asset Out: Asset ID: 1000085
+Amount In: 1.90614
+Min Amount Out: N/A
+
+Block: 4967848
+Attacker (Buy): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Victim: 7K9TT3SpX3AQPWTKtJbTXJe1aSZo7Biyy6s4MX8xysRobAFn
+Attacker (Sell): 7K4LKw7KEFvFMeqkX3xKkCkr6sF9e8UUaENFRuUzDYSqywEX
+Asset In: DOT
+Asset Out: Asset ID: 1000085
+Amount In: 45.00000
+Min Amount Out: N/A
+
+Block: 4974382
+Attacker (Buy): 7METuQ3X92iEjeESKPV3aGWYsgz3Et3xYWpE4kj8dCAW4qbA
+Victim: 7Hsq5RH9xUtPWFZMGXtoVWNd4CEjpJWsidf7bcGwNwdxp9Ha
+Attacker (Sell): 7METuQ3X92iEjeESKPV3aGWYsgz3Et3xYWpE4kj8dCAW4qbA
+Asset In: Asset ID: 1000085
+Asset Out: DOT
+Amount In: N/A
+Min Amount Out: 27.93279
+
